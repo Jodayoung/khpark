@@ -57,24 +57,25 @@
   
 
 ## 📎이미지
-![Uploading 스크린샷 2024-09-04 143145.png…]()
-![Uploading 스크린샷 2024-09-04 143200.png…]()
-![Uploading 스크린샷 2024-09-04 143210.png…]()
-![Uploading 스크린샷 2024-09-04 143222.png…]()
-![Uploading 스크린샷 2024-09-04 143231.png…]()
-![스크린샷 2024-09-04 143239](https://github.com/user-attachments/assets/09419899-266d-4a4e-b858-6d9e3447811b)
-![Uploading 스크린샷 2024-09-04 143253.png…]()
-![Uploading 스크린샷 2024-09-04 143259.png…]()
-![Uploading 스크린샷 2024-09-04 143307.png…]()
-![Uploading 스크린샷 2024-09-04 143315.png…]()
-![Uploading 스크린샷 2024-09-04 143322.png…]()
-![Uploading 스크린샷 2024-09-04 143330.png…]()
-![Uploading 스크린샷 2024-09-04 143337.png…]()
-![Uploading 스크린샷 2024-09-04 143345.png…]()
-![Uploading 스크린샷 2024-09-04 143411.png…]()
-![Uploading 스크린샷 2024-09-04 143420.png…]()
-![Uploading 스크린샷 2024-09-04 143426.png…]()
-![Uploading 스크린샷 2024-09-04 143436.png…]()
+![스크린샷 2024-09-04 143145](https://github.com/user-attachments/assets/85d7832c-e64c-4221-bb29-7eba1f10fa66)
+![스크린샷 2024-09-04 143200](https://github.com/user-attachments/assets/481e15d1-5fc6-4196-abc2-ee215feac1f0)
+![스크린샷 2024-09-04 143210](https://github.com/user-attachments/assets/ba9713a1-c23b-415a-96ba-7d8ed8aa8d33)
+![스크린샷 2024-09-04 143222](https://github.com/user-attachments/assets/aa19ed93-dd56-420b-893d-64d18ed1c7a4)
+![스크린샷 2024-09-04 143231](https://github.com/user-attachments/assets/c5aa66dc-3b55-4101-988a-b940d722ab50)
+![스크린샷 2024-09-04 143239](https://github.com/user-attachments/assets/b54bcc02-8544-43f0-a3a3-d0a3f0bbf6f2)
+![스크린샷 2024-09-04 143253](https://github.com/user-attachments/assets/83ec8bed-33cf-41a6-ac53-8dbd9c2e055f)
+![스크린샷 2024-09-04 143259](https://github.com/user-attachments/assets/932536eb-14ba-4e7c-bd70-3ba4d5a24edd)
+![스크린샷 2024-09-04 143307](https://github.com/user-attachments/assets/2a881e70-2591-4a46-bc65-0446eaadd37f)
+![스크린샷 2024-09-04 143315](https://github.com/user-attachments/assets/d21dd538-df92-4fc8-bfd5-18d501f1bf33)
+![스크린샷 2024-09-04 143322](https://github.com/user-attachments/assets/7ba964eb-e090-4e09-8700-ab5df71eee14)
+![스크린샷 2024-09-04 143330](https://github.com/user-attachments/assets/ca2f46af-bfb9-41dd-9736-ffe3293790e0)
+![스크린샷 2024-09-04 143337](https://github.com/user-attachments/assets/22d7c6ab-3901-465d-96e3-791cd50d7045)
+![스크린샷 2024-09-04 143345](https://github.com/user-attachments/assets/3cce2f35-2181-49fe-b513-ecfdac4b8695)
+![스크린샷 2024-09-04 143411](https://github.com/user-attachments/assets/3239f686-9704-4397-bd46-65a5f27f0758)
+![스크린샷 2024-09-04 143420](https://github.com/user-attachments/assets/8bbbdd69-2e72-4a14-a773-ae025a41f1ce)
+![스크린샷 2024-09-04 143426](https://github.com/user-attachments/assets/37c314ef-aa85-4c6e-9149-3de0ecb2e78d)
+![스크린샷 2024-09-04 143436](https://github.com/user-attachments/assets/9da0b5e8-975e-463a-bad8-0bddb508078b)
+
 
 
 
